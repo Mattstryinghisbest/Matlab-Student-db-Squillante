@@ -1,5 +1,5 @@
-% Author Name: Samuel Amery
-% Email: amerys34@rowan.edu
+% Author Name: Matthew Squillante
+% Email: Squill94@rowan.edu
 % Course: MATLAB Programming - Fall 2024
 % Assignment: midterm
 % Date: 11/13/2024
